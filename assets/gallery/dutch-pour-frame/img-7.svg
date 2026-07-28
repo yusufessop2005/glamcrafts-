@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+<rect width="800" height="800" fill="#D4A017"/>
+<rect width="800" height="800" fill="#000" opacity="0.06"/>
+<circle cx="656.0" cy="144.0" r="120" fill="#fff" opacity="0.08"/>
+<circle cx="120.0" cy="680.0" r="160" fill="#fff" opacity="0.06"/>
+<text x="50%" y="48%" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff" text-anchor="middle" opacity="0.9">Dutch Pour Frame</text>
+<text x="50%" y="56%" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" opacity="0.75">Galaxy Dutch Pour Frame</text>
+</svg>
